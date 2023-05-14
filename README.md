@@ -10,6 +10,8 @@ kivy.rrquire("1.9.1")
 class kvmyapp (app){
 }
 def kvmyapp (self)
+Label:
+text:("[🤗 guys my first 🥇🏆 trouvel]")
 pass
 
 Kv=mykivyapp ()
